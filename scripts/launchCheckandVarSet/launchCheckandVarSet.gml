@@ -3,8 +3,9 @@ function Script1(){
 if (launch=1) then 
 	{ 
 		show_debug_message("omg haiiii :3 its game time!");
+		global.highspeed = 0;
 	}
-	else
+else
 	{
 		show_debug_message("Why Is The Mother Fucking Launch Variable Not 1??");
 	}

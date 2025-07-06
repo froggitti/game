@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"Script4",
+  "%Name":"fastButtonDown",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"Script4",
+  "name":"fastButtonDown",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",

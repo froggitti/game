@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"Script3",
+  "%Name":"launchCheckandVarSet",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"Script3",
+  "name":"launchCheckandVarSet",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",

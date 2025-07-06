@@ -1,5 +1,5 @@
 function Script1(){
-	show_debug_message("Checking if the game is allowed to launch")
+	show_debug_message("Checking if the game is allowed to launch");
 if (launch=1) then 
 	{ 
 		show_debug_message("omg haiiii :3 its game time!");

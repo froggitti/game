@@ -39,8 +39,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite1",
-    "path":"sprites/Sprite1/Sprite1.yy",
+    "name":"spr_mainchara_lancer",
+    "path":"sprites/spr_mainchara_lancer/spr_mainchara_lancer.yy",
   },
   "spriteMaskId":null,
   "visible":true,
